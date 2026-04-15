@@ -16,6 +16,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="UnitTest1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\BugPro\BugPro.csproj" />
   </ItemGroup>
 
