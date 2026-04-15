@@ -1,0 +1,17 @@
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/BugPro
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/BugPro.deps.json
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/BugPro.runtimeconfig.json
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/BugPro.dll
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/BugPro.pdb
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/bin/Debug/net9.0/Stateless.dll
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.csproj.AssemblyReference.cache
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.AssemblyInfoInputs.cache
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.AssemblyInfo.cs
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.csproj.CoreCompileInputs.cache
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.csproj.Up2Date
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.dll
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/refint/BugPro.dll
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.pdb
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/BugPro.genruntimeconfig.cache
+/Users/ivankarpich/Downloads/ST-4-main/BugPro/obj/Debug/net9.0/ref/BugPro.dll
